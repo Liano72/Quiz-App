@@ -1,0 +1,30 @@
+.option {
+    background-color: #3c0e70;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    cursor: pointer;
+    opacity: 0.8;
+    transition: 0.4s;
+}
+.option:hover {
+    border: 2px solid #fff;
+    opacity: 1;
+}
+#options-container .option p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.correct {
+    background-color: #2c8629;
+    opacity: 1;
+ }
+  
+.wrong {
+    background-color: #3c0e70;
+    opacity: 0.5;
+}
+  
+.hide {
+    display: none;
+}

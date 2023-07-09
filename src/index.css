@@ -1,0 +1,35 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Arvo", sans-serif;
+  color: #FFF;
+}
+body, html{
+  min-height: 100vh;
+  height: 100%;
+  background-color: #1c1c1c;
+}
+img{
+  max-width: 100%;
+}
+button{
+  font-weight: bold;
+  font-size: 1.2rem;
+  cursor: pointer;
+  padding: .8rem 1.5rem;
+  background: linear-gradient(
+    90deg,
+    rgb(96, 53, 197) 0%,
+    rgb(137, 67, 170) 100% 
+  );
+  border-radius: 3rem;
+  border: 2px solid #7121ce;
+}
+button:hover{
+  background: linear-gradient(
+    90deg,
+    rgb(137, 67, 170) 0%,
+    rgb(96, 53, 197) 100% 
+  );
+  border: 2px solid #ebebeb;
+}
