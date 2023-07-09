@@ -20,3 +20,7 @@ Desenvolvido aplicação utilizando #Vite e ReactJs, para estilização dos elem
 
 
 
+
+
+https://github.com/Liano72/Quiz-App/assets/89361754/5c4c6ee2-e961-4e5a-8697-a4240d7d39fd
+
