@@ -14,7 +14,7 @@ Desenvolvido aplicação utilizando #Vite e ReactJs, para estilização dos elem
 #css</br>
 #javascript</br>
 
-![ezgif com-video-to-gif(1)](https://github.com/Liano72/Clima-Tempo/assets/89361754/a381400f-8d05-4359-9a52-6a6ce46fde93)
+![ezgif com-video-to-gif(1)]([https://github.com/Liano72/Quiz-App/assets/89361754/5c4c6ee2-e961-4e5a-8697-a4240d7d39fd])
 
 
 
