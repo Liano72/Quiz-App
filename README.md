@@ -14,13 +14,7 @@ Desenvolvido aplicação utilizando #Vite e ReactJs, para estilização dos elem
 #css</br>
 #javascript</br>
 
-![ezgif com-video-to-gif(1)]([https://github.com/Liano72/Quiz-App/assets/89361754/5c4c6ee2-e961-4e5a-8697-a4240d7d39fd])
+![quiz_gif](https://github.com/Liano72/Quiz-App/assets/89361754/650764b8-a802-45bf-8bf6-10f815c336f5)
 
 
-
-
-
-
-
-https://github.com/Liano72/Quiz-App/assets/89361754/5c4c6ee2-e961-4e5a-8697-a4240d7d39fd
 
